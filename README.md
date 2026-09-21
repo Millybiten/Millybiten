@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá! 👋 Eu sou a Milly!
 
-<!--
-**Millybiten/Millybiten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Informática para Internet**
+💻 Atualmente aprendendo e desenvolvendo minhas habilidades na área de tecnologia.
 
-Here are some ideas to get you started:
+### 🧠 Linguagens e tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌐 **HTML**
+* 🎨 **CSS**
+* 💻 **JavaScript**
+* 🐍 **Python**
+* 🗄️ **SQL**
+* 🎮 **GML (GameMaker Language)**
+
+### 📚 Atualmente aprendendo
+
+Estou buscando melhorar meus conhecimentos em **Estou estudando desenvolvimento Front-end e Back-end, buscando ampliar meus conhecimentos em desenvolvimento web, programação e banco de dados.**, sempre aprendendo coisas novas e colocando meus conhecimentos em prática.
+
+### 🌱 Sobre mim
+
+Gosto de aprender, criar coisas novas e explorar diferentes áreas da tecnologia. Estou construindo minha experiência aos poucos e usando o GitHub para acompanhar minha evolução como estudante e futura profissional da área de TI.
+
+✨ *Sempre aprendendo, criando e evoluindo.*
