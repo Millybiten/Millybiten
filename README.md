@@ -10,7 +10,6 @@
 * 💻 **JavaScript**
 * 🐍 **Python**
 * 🗄️ **SQL**
-* 🎮 **GML (GameMaker Language)**
 
 ### 📚 Atualmente aprendendo
 
